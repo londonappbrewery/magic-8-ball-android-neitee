@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="Title1">May the odds be ever in your favor!</string>
+    <string name="Button_text">TELL ME MORE</string>
+    <string name="Title2">Your name is the definition of failure</string>
+    <string name="Title3">Are you really gonna ask an app?</string>
+    <string name="Title4">Find yourself some friends.</string>
+    <string name="Title5">Yes, find a real occupation</string>
 </resources>
